@@ -50,7 +50,7 @@
     "similarity": "^1.2.1",
     "spinnies": "^0.5.1",
     "tod-api": "^1.0.5",
-
+    "yt-search": "^2.7.6"
   },
   "scripts": {
     "start": "node main",
